@@ -1,0 +1,4 @@
+/Applications/Jetbrains/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/Jetbrains/CLion.app/Contents/bin/ninja/mac/x64/ninja -G Ninja -S "/Users/ampl/JetBrainsAppProjects/CLionProjects/CSC-120_Chapters/Chapter6b/Chapter6Project1 /RockPaperScissorsGame" -B "/Users/ampl/JetBrainsAppProjects/CLionProjects/CSC-120_Chapters/Chapter6b/Chapter6Project1 /RockPaperScissorsGame/cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/ampl/JetBrainsAppProjects/CLionProjects/CSC-120_Chapters/Chapter6b/Chapter6Project1 /RockPaperScissorsGame/cmake-build-debug
