@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable binaries
+*.exe
+*.out
+*.app
+*.log
+
+# Build directories
+/build/
+/bin/
+/cmake-build-debug/
+/cmake-build-release/
+CMakeFiles/
+Makefile
+CMakeCache.txt
+compile_commands.json
+CTestTestfile.cmake
+cmake_install.cmake
+
+# Editor-specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+Thumbs.db

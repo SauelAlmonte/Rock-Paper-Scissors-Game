@@ -1,3 +1,0 @@
-/Users/ampl/JetBrainsAppProjects/CLionProjects/CSC-120_Chapters/Chapter6b/Chapter6Project1 /RockPaperScissorsGame/cmake-build-debug/CMakeFiles/RockPaperScissorsGame.dir
-/Users/ampl/JetBrainsAppProjects/CLionProjects/CSC-120_Chapters/Chapter6b/Chapter6Project1 /RockPaperScissorsGame/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/ampl/JetBrainsAppProjects/CLionProjects/CSC-120_Chapters/Chapter6b/Chapter6Project1 /RockPaperScissorsGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
